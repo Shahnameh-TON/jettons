@@ -1,0 +1,10 @@
+{
+  "address": "",
+  "name": "Real",
+  "symbol": "REAL",
+  "decimals": "9",
+  "image": "https://cache.tonapi.io/imgproxy/Dxq5eYmU-HqSQoVYzgtT0RKGsAkC17lDwsNI2zSXecA/rs:fill:200:200:1/g:no/aHR0cHM6Ly9yZWFsc2hhaG5hbWVoLmdpdGh1Yi5pby9yZWFsdG9uLzExNzU1ODU0MC5wbmc.webp",
+  "description": "REAL is the Shahnameh game's utility token, linked to the Iranian Rial. Starting with 227 tokens, the supply grows with players!",
+  "uri": "https://shahnameh-ton.github.io/ton-assets/accounts.json",
+  "data": "https://api.geckoterminal.com/api/v2/networks/ton/pools/EQA-9Jnh2QxHXN2OELv0aix0848VBRyOI731JgGwsc85R2Av?include=dex"
+}
