@@ -1,10 +1,14 @@
-{
-  "address": "kQDHM27YMVMl-syf2yR7qcuciQv9JLYbgCEEVAWh-F3545zT",
-  "name": "Real",
-  "symbol": "REAL",
-  "decimals": "9",
-  "image": "https://shahnameh-ton.github.io/jettons/real.png",
+ {
+  "address": "EQDhq_DjQUMJqfXLP8K8J6SlOvon08XQQK0T49xon2e0xU8p",
   "description": "REAL is the Shahnameh game's utility token, linked to the Iranian Rial. Starting with 227 tokens, the supply grows with players!",
-  "uri": "https://shahnameh-ton.github.io/jettons/jettons.json",
-  "data": "https://api.geckoterminal.com/api/v2/networks/ton/pools/EQA-9Jnh2QxHXN2OELv0aix0848VBRyOI731JgGwsc85R2Av?include=dex"
-}
+  "image": "https://shahnameh-ton.github.io/real/real.png",
+  "dex": "https://app.ston.fi/swap?chartVisible=false&ft=TON&fa=0&tt=EQDhq_DjQUMJqfXLP8K8J6SlOvon08XQQK0T49xon2e0xU8p",
+  "name": "Real",
+  "social": [
+   "https://t.me/shahnameh_news",
+  ],
+  "symbol": "REAL",
+  "websites": [
+   "https://shahnameh-bot.io"
+  ]
+ }
